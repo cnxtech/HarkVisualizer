@@ -13,7 +13,7 @@ ndg-httpsclient==0.4.1
 paho-mqtt==1.2
 pyasn1==0.1.9
 pycparser==2.14
-Pygments==2.1.3
+Pygments==2.7.4
 pyhark==0.1.0
 pyOpenSSL==16.0.0
 requests==2.10.0
